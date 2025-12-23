@@ -1,0 +1,5 @@
+{
+  "name": "Astrô Bar",
+  "description": "Sistema de gestão de bar com controle de estoque global, checklists por turno e histórico de movimentações em tempo real.",
+  "requestFramePermissions": []
+}
